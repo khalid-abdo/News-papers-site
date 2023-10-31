@@ -1,0 +1,131 @@
+@media  (max-width: 600px){
+    body{
+        width: 100%;
+    }
+    .ad{
+        display: block !important;
+    }
+    #ads{
+        margin-top: 0;
+    }
+    
+    .leader{
+        justify-content: center;
+    }
+    .logo{
+        justify-content: center;
+        display: flex;
+    }
+    /* end responsive section of ads and leaders name and logo */
+    .alert{
+        font-size: 15px;
+    }
+    /* end the responsive section of warning */
+    .egypt-news{
+        display: block !important;
+    }
+    .public-priesident{
+        width: 100%;
+        height: 46%;
+        padding-inline: 4px;
+        padding-bottom: 0;
+        padding-top: 2px;
+
+    }
+    .public-priesident p ,.public-priesident p q {
+       padding-inline: 5px;
+       
+    }
+    .prime-minster{
+        margin: 3px;
+       
+        
+    }
+    .prime-minster-news{
+        justify-content:center;
+        padding: 0;
+        margin-top: 5px;
+    }
+    /* end the section of news in the head of sebsite  */
+    .four-photo{
+        display: block !important;
+        margin: 13px;
+        padding: 5px;
+    }
+    .all-photo{
+        display: block !important;
+    }
+    .corona-new{
+        top: 48%;
+        width: 105%;
+        left: 3px;
+        padding: 0;
+        display: flex;
+        justify-content: start;
+        text-align: center;
+        margin-top: -15px;
+        padding-top: 6px;
+        align-items: center;
+    
+    }
+    .corona-new h4{
+        font-size: 12px;
+        text-align: center;
+       
+        width: 100%;
+    }
+
+    .corona-douple{
+        margin-top: 20px;
+        justify-content: space-around;
+    }
+    /* end the section of slider news  */
+    .investigations-title h2::after{
+        width: 153px;
+    }
+    .three-col-article{
+        display: block !important;
+    }
+    .four-articl{
+        margin-top: 10px;
+        text-align: center;
+    }
+    .ad2{
+        width: 109%;
+    }
+    /* end the section of investigations */
+    .art-author2{
+        display: block !important;
+        text-align: center;
+    }
+    .author-img{
+        width: 80px;
+        height: 80px;
+    }
+    .arc-title h6{
+        font-size: 8px;
+        padding-top: 7px;
+       
+    }
+    .arc-title svg{
+        font-size: 20px;
+    }
+    .writer{
+        padding: 2px;
+        text-align: end;
+        font-size: 8px;
+    }
+    .writer::before{
+        width: 10px;
+        top: 0;
+    }
+
+   /* end section of articls */
+    .social-media{
+        margin: 0;
+    }
+  
+  
+}
+
+
