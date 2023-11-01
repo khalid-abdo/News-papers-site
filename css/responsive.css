@@ -18,7 +18,8 @@
     }
     /* end responsive section of ads and leaders name and logo */
     .alert{
-        font-size: 15px;
+        padding: 5px;
+        font-size: 5px;
     }
     /* end the responsive section of warning */
     .egypt-news{
@@ -34,7 +35,8 @@
     }
     .public-priesident p ,.public-priesident p q {
        padding-inline: 5px;
-       
+       font-size: 14px !important;
+       font-weight: 400;
     }
     .prime-minster{
         margin: 3px;
